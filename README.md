@@ -15,7 +15,7 @@ optional arguments:
 
 ## Flow
 
-
+![Graph](https://github.com/gfek/admin2system/blob/master/images/graffle.jpg)
 
 ## References
 
